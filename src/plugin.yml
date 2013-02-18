@@ -1,0 +1,34 @@
+name: warsystem
+main: de.lordknaeckebrot.de.warsystem
+version: 1.0
+commands:
+   wartime:
+      description: heiratet
+      usage:
+   warn:
+      description: heiratet
+      usage:
+   warns:
+      description: heiratet
+      usage:
+   cc:
+      description: heiratet
+      usage:
+   vote:
+      description: heiratet
+      usage:
+   rang:
+      description: heiratet
+      usage:
+   hilfe:
+      description: heiratet
+      usage:
+   skype:
+      description: heiratet
+      usage:
+   ts:
+      description: heiratet
+      usage:
+   ts3:
+      description: heiratet
+      usage:
