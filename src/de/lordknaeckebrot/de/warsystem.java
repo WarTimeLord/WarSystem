@@ -12,6 +12,7 @@ public class warsystem extends JavaPlugin{
 	
 	public void onEnable(){
 		System.out.println("[]=======< WarSystem v1.0 >=======[]");
+		System.out.println("Hi!");
 	}
 	
 	public void onDisable(){
